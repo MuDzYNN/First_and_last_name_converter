@@ -8,4 +8,5 @@ Creating .txt file to convert:
 3. After each first and last name put comma
 
 Eg.
+
  Examplename1 Examplelastname1, Examplename2 Examplelastname2, 
