@@ -7,6 +7,4 @@ Creating .txt file to convert:
 2. Use BIG letters in each first and last name
 3. After each first and last name put comma
 
-Eg.
-
- Examplename1 Examplelastname1, Examplename2 Examplelastname2, 
+Examples files in txt/read dir
